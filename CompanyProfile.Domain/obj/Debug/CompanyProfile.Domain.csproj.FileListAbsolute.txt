@@ -1,0 +1,5 @@
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.Domain\bin\Debug\CompanyProfile.Domain.dll
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.Domain\bin\Debug\CompanyProfile.Domain.pdb
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.Domain\obj\Debug\CompanyProfile.Domain.csprojResolveAssemblyReference.cache
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.Domain\obj\Debug\CompanyProfile.Domain.dll
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.Domain\obj\Debug\CompanyProfile.Domain.pdb

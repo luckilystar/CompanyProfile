@@ -1,0 +1,14 @@
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\CompanyProfile.EntityFramework.dll.config
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\CompanyProfile.EntityFramework.dll
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\CompanyProfile.EntityFramework.pdb
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\CompanyProfile.Domain.dll
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\EntityFramework.dll
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\CompanyProfile.Domain.pdb
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\EntityFramework.xml
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\obj\Debug\CompanyProfile.EntityFramework.csprojResolveAssemblyReference.cache
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\obj\Debug\CompanyProfile.EntityFramework.dll
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\obj\Debug\CompanyProfile.EntityFramework.pdb
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\obj\Debug\CompanyProfile.EntityFramework.Migrations.InitialDatabase.resources
+D:\workspace-vistud2015\CompanyProfile\CompanyProfile.EntityFramework\obj\Debug\CompanyProfile.EntityFramework.csproj.GenerateResource.Cache
