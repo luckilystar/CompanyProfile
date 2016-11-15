@@ -17,5 +17,6 @@ namespace CompanyProfile.Domain.Users
         public string  Name { get; set; }
 
         public string PhoneNumber { get; set; }
+        public DateTime Birthday { get; set; }
     }
 }
