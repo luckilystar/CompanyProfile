@@ -16,6 +16,6 @@ namespace CompanyProfile.Domain.Users
         [MaxLength(250)]
         public string  Name { get; set; }
 
-
+        public string PhoneNumber { get; set; }
     }
 }
